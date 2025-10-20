@@ -4,8 +4,15 @@ body {
 
 .header {
     background-color: antiquewhite;
+    padding: 40px;
 }
 
-.body {
+.main {
     background-color: teal;
+    padding: 40px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
 }
